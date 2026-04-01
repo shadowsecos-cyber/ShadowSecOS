@@ -54,6 +54,7 @@ Recommended:
 CPU: 4 Cores
 RAM: 8 GB+
 Storage: 60 GB+
+
 📥 Installation
 Virtual Machine Installation
 Download the OVA / ISO file
@@ -66,19 +67,7 @@ Download the ISO
 Flash with Rufus / Balena Etcher
 Boot from USB
 Install ShadowSecOS
-📸 Screenshots
 
-You can add screenshots inside a /screenshots folder.
-
-Example:
-
-/screenshots
- ├ desktop.png
- ├ login.png
- ├ terminal.png
- └ tools.png
-
-Then show them in README.
 
 🎯 Who Is This For?
 
@@ -89,6 +78,7 @@ Penetration Testers
 Cybersecurity Students
 Bug Bounty Hunters
 Security Researchers
+
 ⚠️ Legal Disclaimer
 
 ShadowSecOS is intended for educational and ethical security testing purposes only.
