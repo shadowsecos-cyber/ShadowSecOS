@@ -11,12 +11,19 @@ Built with performance, security, and simplicity in mind, ShadowSecOS delivers a
 ⚡ Features
 
 ✔ Pre-installed penetration testing tools
+
 ✔ Lightweight & fast performance
+
 ✔ Modern hacker-style UI
+
 ✔ Built for cybersecurity professionals
+
 ✔ Advanced networking & security utilities
+
 ✔ Developer-friendly environment
+
 ✔ Privacy-focused system configuration
+
 
 🧰 Security Tools
 
